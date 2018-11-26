@@ -1,3 +1,9 @@
+slurm-llnl (18.08.3-1fhcrc0) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Michael Gutteridge <mrg@fredhutch.org>  Mon, 26 Nov 2018 13:58:10 -0800
+
 slurm-llnl (18.08.2-1fhcrc0) trusty; urgency=medium
 
   * New upstream release
